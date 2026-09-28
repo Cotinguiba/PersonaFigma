@@ -86,14 +86,14 @@ O **Selfsame Hub (SSH)** é um sistema de gestão integrado voltado para açougu
 ## 6. Style Guide (Guia de Estilo)
 
 ### 6.1 Brand / Logo
-![Logo Selfsame Hub](logo_selfsame_hub.png)
+![Logo Selfsame Hub](https://github.com/Cotinguiba/PersonaFigma/blob/develop/Logo.png?raw=true)
 
 O logótipo combina o monograma **"S"** com elementos tecnológicos (circuitos integrados) e a forma de uma placa/ecrã móvel, simbolizando a fusão entre a tradição da carne e a tecnologia do ecossistema **Selfsame Hub**.
 
 ---
 
 ### 6.2 Paleta de Cores
-![Paleta de Cores](paleta_de_cores.png)
+![Paleta de Cores](https://github.com/Cotinguiba/PersonaFigma/blob/develop/Paleta%20de%20cores.png?raw=true)
 
 * **Gold:** `#A98C2D` | `rgb(169, 140, 45)`
 * **White:** `#D9D9D9` | `rgb(217, 217, 217)`
@@ -107,7 +107,7 @@ O logótipo combina o monograma **"S"** com elementos tecnológicos (circuitos i
 ---
 
 ### 6.3 Tipografia e Iconografia
-![Interface Base - Tipografia e Iconografia](interface_base.png)
+![Tipografia e Iconografia](https://github.com/Cotinguiba/PersonaFigma/blob/develop/Referencia%20iconografia.png?raw=true)
 
 * **Tipografia:** Sans-Serif Geométrica e Limpa (estilo Inter / Plus Jakarta Sans).
   * **Headings:** Negrito / Semi-bold para títulos de produtos e preços.
@@ -117,14 +117,14 @@ O logótipo combina o monograma **"S"** com elementos tecnológicos (circuitos i
 ---
 
 ## 7. Moodboard
-![Moodboard](moodboard.png)
+![Moodboard](https://github.com/Cotinguiba/PersonaFigma/blob/develop/Moonboard.png?raw=true)
 
 O Moodboard reúne referências visuais de e-commerce de gastronomia de alta qualidade, boutiques de carnes, tons terrosos/amadeirados e componentes visuais de login e navegação limpa.
 
 ---
 
 ## 8. Sitemap e User Flow (Fluxograma)
-![Sitemap e User Flow](sitemap_userflow.png)
+![Sitemap e User Flow](https://github.com/Cotinguiba/PersonaFigma/blob/develop/Sitemap.png?raw=true)
 
 ### Estrutura do Sistema (Sitemap)
 1. **Página Inicial / Landing Page / Login**
@@ -146,9 +146,9 @@ O Moodboard reúne referências visuais de e-commerce de gastronomia de alta qua
 ## 9. Wireframes & Protótipos de Alta Fidelidade
 
 ### Protótipos Mobile
-![Wireframes e Protótipo Mobile](wireframe_mobile.png)
+![Protótipo Mobile](https://github.com/Cotinguiba/PersonaFigma/blob/develop/Prototipos%20mobile.png?raw=true)
 
 ### Protótipos Web / Desktop
-![Wireframes e Protótipo Web](wireframe_web.png)
+![Protótipo Web](https://github.com/Cotinguiba/PersonaFigma/blob/develop/Prototipos%20web.png?raw=true)
 
 A aplicação conta com layout responsivo desenhado para Web e Dispositivos Móveis, cobrindo todo o fluxo desde a autenticação, navegação por cortes nobres, seleção personalizada por peso, checkout com QR Code PIX até ao rastreamento em tempo real do pedido.
